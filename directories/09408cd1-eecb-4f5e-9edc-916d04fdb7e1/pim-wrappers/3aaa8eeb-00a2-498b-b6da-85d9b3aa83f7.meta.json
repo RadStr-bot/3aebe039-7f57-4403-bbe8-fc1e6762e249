@@ -1,0 +1,21 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/3aebe039-7f57-4403-bbe8-fc1e6762e249/5221c148-72aa-4cd2-bc5d-b2f2a708319c/9cc2509e-db65-4085-87a2-eb1e3b401b89",
+  "projectIri": "3aaa8eeb-00a2-498b-b6da-85d9b3aa83f7",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00/voc/core-location-ap.ttl",
+    "label": {
+      "en": "core-location-ap"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-04-06T19:35:19.344Z",
+    "modificationDate": "2026-04-06T19:35:41.874Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-04-06T19:35:46.732Z",
+  "_exportedBy": "http://localhost:3100"
+}
